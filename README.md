@@ -9,6 +9,7 @@
 ## Write-up
 
 The passphrase: treat
+
 The flag: RITSEC{hAppY_l1L_doG3}
 
 The embedded data can be extracted using steghide. 
