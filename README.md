@@ -2,6 +2,7 @@
 
 **Category:** Forensics
 **Points:** 100
+
 **Description:**
 
 > steganography is the practice of concealing messages or information within other nonsecret data and images. The doge holds the information you want, feed the doge a _treat_ to get the hidden message.
